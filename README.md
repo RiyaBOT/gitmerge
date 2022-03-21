@@ -1,3 +1,4 @@
 # gitmerge
-hi from main branch
 bye from main branch
+hi from branch-a
+
