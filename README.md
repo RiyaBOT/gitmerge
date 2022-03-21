@@ -1,3 +1,3 @@
 # gitmerge
 changed
-Good bye world from Main Branch
+hi from main branch
